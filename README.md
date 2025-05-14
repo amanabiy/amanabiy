@@ -5,12 +5,11 @@
 - Currently at Vella.ai, working across Machine learning models and React-Native mobile app.
 
 ## Skills & Technologies (Highlight)
-- This are technologies I have worked before, I am able to work in any tech stack and tackle any technical challenge.
-- **🧠 Languages:** Rust, TypeScript, JavaScript, Python, Java, C
-- **⚙ Frameworks:** NestJS, Next.js, React, Vue.js, Django, Flask
-- **☁️ Cloud & DevOps:** AWS Lambda, Docker, GitHub Actions, Redis, Nginx
-- **🤖 AI & ML:** RAG pipelines, Pinecone, LLM integration
-- **🗄 Databases:** SQL, PostgreSQL, MongoDB, DynamoDB, Pinecone
+- **🧠 Languages:** Rust, TypeScript, JavaScript, Python, Java, C...
+- **⚙ Frameworks:** NestJS, Next.js, React, Vue.js, Django, Flask...
+- **☁️ Cloud & DevOps:** AWS Lambda, Docker, GitHub Actions, Redis, Nginx...
+- **🤖 AI & ML:** RAG pipelines, Pinecone, LLM integration...
+- **🗄 Databases:** SQL, PostgreSQL, MongoDB, DynamoDB, Pinecone...
 
 ## Featured Personal Projects
 
