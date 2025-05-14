@@ -1,19 +1,18 @@
 # Hi there, I’m Amanuel
 
-**Software Engineer**
-
 ## About Me
-- Software Engineer focused on building reliable systems and simplifying user experience.
+- **Software Engineer** focused on building reliable systems and simplifying user experience.
 - Currently at Vella.ai, working across Machine learning models and React-Native mobile app.
 
-## Skills & Technologies
+## Skills & Technologies (Highlight)
+- This are technologies I have worked before, I am able to work in any tech stack and tackle any technical challenge.
 - **🧠 Languages:** Rust, TypeScript, JavaScript, Python, Java, C
-- **⚙ Frameworks:** NestJS, Next.js, React, Vue.js
+- **⚙ Frameworks:** NestJS, Next.js, React, Vue.js, Django, Flask
 - **☁️ Cloud & DevOps:** AWS Lambda, Docker, GitHub Actions, Redis, Nginx
 - **🤖 AI & ML:** RAG pipelines, Pinecone, LLM integration
-- **🗄 Databases:** PostgreSQL, MongoDB, DynamoDB, Pinecone
+- **🗄 Databases:** SQL, PostgreSQL, MongoDB, DynamoDB, Pinecone
 
-## Featured Projects
+## Featured Personal Projects
 
 ### 🤖 [AI Expert on a Codebase](https://github.com/amanabiy/codebase_rag)  
 📺 [Demo](https://youtu.be/f6kvM_HHtps) — Explains any GitHub repo: summarizes purpose, finds code, and improves the README.  
