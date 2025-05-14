@@ -1,6 +1,6 @@
-# Hi there, I’m Amanuel Abiy Sisay
+# Hi there, I’m Amanuel
 
-**Software Engineer | Technical Mentor**
+**Software Engineer**
 
 ## About Me
 - Software Engineer focused on building reliable systems and simplifying user experience.
