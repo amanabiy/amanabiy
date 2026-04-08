@@ -11,7 +11,7 @@
 *Python 3.7+, Threading, Custom Data Structures*
 
 ### [LLM Evaluation System](https://github.com/amanabiy/llm-evaluator-back-end)  
-• 📺 [Demo](https://youtu.be/NJllqz4Y_vQ) — Run experiments comparing GPT, Gemini, LLAMA by accuracy, cost, and latency.  
+• [Demo](https://youtu.be/NJllqz4Y_vQ) — Run experiments comparing GPT, Gemini, LLAMA by accuracy, cost, and latency.  
 *NestJS, Docker, Redis (BullMQ), Swagger, VPS, Nginx, MailHog*
 
 ### [AI Expert on a Codebase](https://github.com/amanabiy/codebase_rag)  
@@ -19,7 +19,7 @@
 *Next.js, Pinecone, Webhooks, AST Parser, RAG, TypeScript*
 
 
-## 📫 Contact
+## Contact
 - LinkedIn: [linkedin.com/in/amanabiy](https://linkedin.com/in/amanabiy)
 
 ---
